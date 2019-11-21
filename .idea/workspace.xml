@@ -8,7 +8,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4a67bc3-c202-41eb-b4b7-353215db731d" name="Default Changelist" comment="Project Master" />
+    <list default="true" id="b4a67bc3-c202-41eb-b4b7-353215db731d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/app/build/" />
@@ -185,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574300892261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Magic 8 Ball Challenges Complete Project">
+      <created>1574307867771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574307867771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -220,7 +227,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project Master" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Master" />
+    <MESSAGE value="Magic 8 Ball Challenges Complete Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Magic 8 Ball Challenges Complete Project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png">
